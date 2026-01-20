@@ -11,7 +11,6 @@ This repository contains my data analysis projects focused on:
 - Python (pandas, numpy, matplotlib, seaborn)
 - SQL (PostgreSQL / MySQL)
 - Microsoft Power BI
-- Tableau
 - Excel
 
 ## Project Structure
